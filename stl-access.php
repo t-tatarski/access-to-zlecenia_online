@@ -3,7 +3,7 @@
  * Plugin Name: access to zlecenia online
  * Description: dostęp do "zleceń online" tylko dla zalogowanych (redirect)
  * Author: tatarski 
- * Plugin URI: https://github.com/t-tatarski/access-to-zlecenia_online/
+ * Plugin URI: https://github.com/t-tatarski/access-to-zlecenia_online/blob/main/stl-access.php
  */
 
 defined('ABSPATH') || exit;
